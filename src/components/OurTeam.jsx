@@ -5,8 +5,8 @@ import german from '../assets/images/german.jpg'
 
 const OurTeam = () => {
   return (
-    <div className='w-full'>
-        <div className="w-[90%] m-auto py-5">
+    <div className='w-full bg-gradient-to-b from-[#eee] to-[#fff]'>
+        <div className="w-[90%] m-auto py-10">
               <h3 className="font-bold border-b-slate-500 border-b-2 mb-3">OUR TEAM</h3>
               <p>The Academy over the past years has trained and mentored several women and girls in modern baking, pastry and cooking techniques that are doing exceptionally well in their food businesses. We have credible and tangible results and testimonials of women and girls we have trained and supported that are impacting their communities.</p>
               <br />
