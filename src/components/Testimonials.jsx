@@ -3,8 +3,8 @@ import { Testimony } from '../consts/data'
 
 const Testimonials = () => {
   return (
-    <div className='w-full'>
-        <div className="w-[90%] m-auto">
+    <div className='w-full bg-gradient-to-b from-[#eee] to-[#fff]'>
+        <div className="w-[90%] m-auto py-10">
             <h3 className="font-bold border-b-slate-500 border-b-2 mb-3">TESTIMONIALS</h3>
             <div className="w-full py-4">
                 {Testimony.map((item) => (
