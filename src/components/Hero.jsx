@@ -6,7 +6,7 @@ const Hero = () => {
     return (
         <div className='w-full'>
             <img src={hero} alt="" className='w-full' width={100} />
-            <div className="w-[90%] m-auto py-5">
+            <div className="w-[90%] m-auto py-8">
                 <h3 className="font-bold border-b-slate-500 border-b-2">Meet The Head Chef</h3>
                 <div className="flex justify-between flex-nowrap h-full gap-3 mb-4">
                     <div className="w-[55%] py-3 h-full">
